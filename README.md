@@ -1,1 +1,2 @@
 # SoftUni-JS-Basics-September-2021
+The "Programming Basics" course provides the initial programming skills needed for all technological specialties at the Software University. This includes basic coding skills, working with a development environment (IDE), using variables and data, operators and expressions, working with the console (reading input data and printing results), using conditional constructions (if, if-else) and loops (for, while, do-while).
